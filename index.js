@@ -15,8 +15,8 @@ function launchConfetti() {
 
 function renderFinalLove() {
     box.innerHTML = `
-    <img src="pictures/HPPY.gif" />
-    <h2>Yayyy I lopppp uuuu too! ❤️❤️🤍🤍</h2>
+    <img src="../pictures/HPPY.gif" />
+    <h2>YAYYY I LOPPPP UUUU TOO! ❤️❤️🤍🤍</h2>
     `;
     launchConfetti()
 }
@@ -24,14 +24,14 @@ function renderFinalLove() {
 function renderFinalLove2() {
     box.innerHTML = `
     <img src="pictures/HPPY.gif" />
-    <h2>HAHAHA I KNEW ITT I lopppp uuuu too! 😁😁</h2>
+    <h2>HAHAHA I KNEW ITT I LOPPPP UUUU TOO! 😁😁</h2>
     `;
     launchConfetti()
 }
 
 function renderFine() {
     box.innerHTML = `
-        <img src="pictures/fine.gif" />
+        <img src="../pictures/fine.gif" />
         <h2>FINEE 😠😠</h2>
         <div class="btns">
             <button id="yes6">YES</button>
@@ -43,7 +43,7 @@ function renderFine() {
 
 function renderDesperate() {
     box.innerHTML = `
-        <img src="pictures/PLEASE.gif" />
+        <img src="../pictures/PLEASE.gif" />
         <h2>PLEASE BABYY😭😭🥺</h2>
         <div class="btns">
             <button id="yes5">Yes</button>
@@ -56,7 +56,7 @@ function renderDesperate() {
 
 function renderImGonnaCry() {
     box.innerHTML = `
-        <img src="pictures/im gonnna cry.gif" />
+        <img src="../pictures/im gonnna cry.gif" />
         <h2>im gonna CRYY....😔😭😭</h2>
         <div class="btns">
             <button id="yes4">Yes</button>
@@ -69,7 +69,7 @@ function renderImGonnaCry() {
 
 function renderPlease() {
     box.innerHTML = `
-        <img src="pictures/pleaseeeee.gif" />
+        <img src="../pictures/pleaseeeee.gif" />
         <h2>please...??🥺😔</h2>
         <div class="btns">
             <button id="yes3">Yes</button>
@@ -82,7 +82,7 @@ function renderPlease() {
 
 function renderAreYouSure() {
     box.innerHTML = `
-        <img src="/pictures/are u sure.gif" />
+        <img src="..//pictures/are u sure.gif" />
         <h2>Are you sureee? 🥺</h2>
         <div class="btns">
             <button id="yes2">Yes</button>
