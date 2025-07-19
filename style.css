@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('pictures/background_cat.webp');
+    background-image: url('../pictures/background_cat.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
